@@ -1,0 +1,16 @@
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\CrawlerApp.exe
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\CrawlerApp.deps.json
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\CrawlerApp.runtimeconfig.json
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\CrawlerApp.runtimeconfig.dev.json
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\CrawlerApp.dll
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\ref\CrawlerApp.dll
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\bin\Debug\net5.0\CrawlerApp.pdb
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.csproj.AssemblyReference.cache
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.AssemblyInfoInputs.cache
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.AssemblyInfo.cs
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.csproj.CoreCompileInputs.cache
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.dll
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\ref\CrawlerApp.dll
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.pdb
+C:\Users\s15538\source\repos\CrawlerApp\CrawlerApp\obj\Debug\net5.0\CrawlerApp.genruntimeconfig.cache
